@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](image.png)
+![](https://user-images.githubusercontent.com/87590123/185665356-094fce73-8bbe-4f95-a745-2fea79baa7a5.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository Link](https://github.com/ashwin-acharya01/Fylo-landing-page)
+- Live Site URL: [Live URL Link](https://fylolandingpagefm.netlify.app/)
 
 ## My process
 
